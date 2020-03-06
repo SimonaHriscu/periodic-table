@@ -1,3 +1,3 @@
 # The Mendeleev Periodic Table 
 
-![Imgur](https://i.imgur.com/FNwQMm5.png?1)
+![Imgur](https://i.imgur.com/DqK8ebQ.png?1)
